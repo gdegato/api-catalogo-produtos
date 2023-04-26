@@ -11,6 +11,4 @@ Thunder Client para realizar as requisições GET, POST, PUT e DELETE
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
-
 https://youtu.be/3J1PupEIkys
